@@ -1,0 +1,7 @@
+marquee img{width: 20px;
+            height:20px;}
+marquee{font-size: 20px;
+        color: aqua;
+        font-weight: bold;}
+body{text-align: center;}
+li{display: inline;}
